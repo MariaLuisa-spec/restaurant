@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    font-size: 24px;
+    color: rgb(255, 255, 255);
+    padding: 10px 0 20px 24px;
+    background-color: black;
+}
+
+.buttonContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 250px;
+  }
+  
+  

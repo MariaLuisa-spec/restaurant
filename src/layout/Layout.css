@@ -1,0 +1,15 @@
+
+.layoutStuff {
+    display: flex;
+    flex-direction: row;
+
+    height: 100%;
+}
+
+.bodyContainer {
+    flex-grow: 5;
+}
+
+.sideContainer {
+    flex-grow: 1;
+}
