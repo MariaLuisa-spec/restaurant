@@ -2,8 +2,7 @@ import React, {useState} from 'react';
 
 const Sidebar = ({ items, cartTotal }) => {
   const [expanded, setExpanded] = useState(false);
-  const totalItems = items ? items.reduce((total, item) => total + item.quantity, 0) : 0;
-
+  const totalItems = items ? items.reduce((total, item) => total + item.quantity, 0) : 0; 
   const handleExpand = () => {
     setExpanded(!expanded);
   };

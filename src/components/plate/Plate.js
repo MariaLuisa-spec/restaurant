@@ -1,11 +1,11 @@
 import React, { useState } from 'react';
 import styles from './Plate.module.css';
 
-const Plate = ({ title, image, description, precio, quantity, handleAddToCart }) => {
+const Plate = ({ title, image, description, price, handleAddToCart }) => {
   const [expanded, setExpanded] = useState(false);
 
   const handleClick = () => {
-    handleAddToCart(title, 1, precio);
+    handleAddToCart(title, 1, price);
   };
 
   const handleExpand = () => {
@@ -28,8 +28,7 @@ const Plate = ({ title, image, description, precio, quantity, handleAddToCart })
         ) : null}
       </p>
       <button className={styles.addButton} onClick={handleClick}>Añadir</button>
-      <p className={styles.precio} >Precio: {precio}</p>
-      <p className={styles.quantity} >quantity: {quantity}</p>
+      <p className={styles.price} >Precio: {price}</p>
     </div>
   );
 };

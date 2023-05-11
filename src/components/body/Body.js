@@ -6,6 +6,7 @@ const Body = ({ selectedMenu, setPlatos, handleAddToCart }) => {
   const platos = platosData[selectedMenu];
   
   const handleClick = (title, price) => {
+    
     const newPlatos = platos.map((plato) => {
       if (plato.title === title) {
         return { ...plato, quantity: plato.quantity + 1 };
@@ -25,10 +26,9 @@ const Body = ({ selectedMenu, setPlatos, handleAddToCart }) => {
           title={plato.title}
           image={plato.imagen}
           description={plato.description}
-          precio={plato.precio}
-          quantity={plato.quantity}
+          price={plato.price}
           handleAddToCart={handleAddToCart}
-          onClick={() => handleClick(plato.title, plato.precio)}
+          onClick={() => handleClick(plato.title, plato.price)}
         />
       ))}
     </div>

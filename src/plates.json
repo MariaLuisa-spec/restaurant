@@ -5,28 +5,28 @@
         "imagen": "https://cdn.pixabay.com/photo/2017/11/23/13/50/pumpkin-soup-2972858_960_720.jpg",
         "description": "Descripción del plato 1",
         "quantity": 0,
-        "precio": 12.9
+        "price": 12.9
       },
       {
         "title": "Plato 2",
         "imagen": "https://via.placeholder.com/150",
         "description": "Descripción del plato 2",
         "quantity": 0,
-        "precio": 2.99
+        "price": 2.99
       },
       {
         "title": "Plato 3",
         "imagen": "https://via.placeholder.com/150",
-        "descripc¿tion": "Descripción del plato 3",
+        "description": "Descripción del plato 3",
         "quantity": 0,
-        "precio": 15.99
+        "price": 15.99
       },
       {
         "title": "Plato 4",
         "imagen": "https://via.placeholder.com/150",
-        "descripc¿tion": "Descripción del plato 4",
+        "description": "Descripción del plato 4",
         "quantity": 0,
-        "precio": 15.99
+        "price": 15.99
       }
 
     ],
@@ -36,21 +36,21 @@
         "imagen": "https://via.placeholder.com/150",
         "description": "Descripción del postre 1",
         "quantity": 0,
-        "precio": 13
+        "price": 13
       },
       {
         "title": "Postre 2",
         "imagen": "https://via.placeholder.com/150",
         "description": "Descripción del postre 2",
         "quantity": 0,
-        "precio": 17
+        "price": 17
       },
       {
         "title": "Postre 3",
         "imagen": "https://via.placeholder.com/150",
         "description": "Descripción del postre 3",
         "quantity": 0,
-        "precio": 11.99
+        "price": 11.99
       }
     ],
     "drink": [
@@ -59,21 +59,21 @@
         "imagen": "https://via.placeholder.com/150",
         "description": "Descripción de la bebida 1",
         "quantity": 0,
-        "precio": 2.99
+        "price": 2.99
       },
       {
         "title": "Bebida 2",
         "imagen": "https://via.placeholder.com/150",
         "description": "Descripción de la bebida 2",
         "quantity": 0,
-        "precio": 3.99
+        "price": 3.99
       },
       {
         "title": "Bebida 3",
         "imagen": "https://via.placeholder.com/150",
         "description": "Descripción de la bebida 3",
         "quantity": 0,
-        "precio": 4.99
+        "price": 4.99
       }
     ]
   }

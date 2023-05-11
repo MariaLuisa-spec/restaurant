@@ -3,19 +3,19 @@
       {
         "title": "Plato 1",
         "imagen": "https://via.placeholder.com/150",
-        "descripion": "Descripción del plato 1",
+        "description": "Descripción del plato 1",
         "quantity": 0
       },
       {
         "title": "Plato 2",
         "imagen": "https://via.placeholder.com/150",
-        "descripion": "Descripción del plato 2",
+        "description": "Descripción del plato 2",
         "quantity": 0
       },
       {
         "title": "Plato 3",
         "imagen": "https://via.placeholder.com/150",
-        "descripion": "Descripción del plato 3",
+        "description": "Descripción del plato 3",
         "quantity": 0
       }
     ],
@@ -23,19 +23,19 @@
       {
         "title": "Postre 1",
         "imagen": "https://via.placeholder.com/150",
-        "descripion": "Descripción del postre 1",
+        "description": "Descripción del postre 1",
         "quantity": 0
       },
       {
         "title": "Postre 2",
         "imagen": "https://via.placeholder.com/150",
-        "descripion": "Descripción del postre 2",
+        "description": "Descripción del postre 2",
         "quantity": 0
       },
       {
         "title": "Postre 3",
         "imagen": "https://via.placeholder.com/150",
-        "descripion": "Descripción del postre 3",
+        "description": "Descripción del postre 3",
         "quantity": 0
       }
     ],
@@ -43,19 +43,19 @@
       {
         "title": "Bebida 1",
         "imagen": "https://via.placeholder.com/150",
-        "descripion": "Descripción de la bebida 1",
+        "description": "Descripción de la bebida 1",
         "quantity": 0
       },
       {
         "title": "Bebida 2",
         "imagen": "https://via.placeholder.com/150",
-        "descripion": "Descripción de la bebida 2",
+        "description": "Descripción de la bebida 2",
         "quantity": 0
       },
       {
         "title": "Bebida 3",
         "imagen": "https://via.placeholder.com/150",
-        "descripion": "Descripción de la bebida 3",
+        "description": "Descripción de la bebida 3",
         "quantity": 0
       }
     ]

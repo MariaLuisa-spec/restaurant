@@ -12,7 +12,7 @@ function App() {
   const [cartTotal, setCartTotal] = useState(0);
   const handleAddToCart = (title, quantity, price) => {
     const itemIndex = cartItems.findIndex((item) => item.title === title);
-    if (itemIndex >= 0) {
+    if (itemIndex >= 0) { 
       const newCartItems = [...cartItems];
       newCartItems[itemIndex].quantity += quantity;
       setCartItems(newCartItems);
